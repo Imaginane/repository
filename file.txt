@@ -1,1 +1,2 @@
+This is another mod.
 This is file 1.

@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This line by local repository.
+=======
+Remote added this line.
+>>>>>>> c6732fdb74565317d0ba1f3e4319e4dd38961238
 This is another mod.
 This is file 1.
